@@ -1,0 +1,8 @@
+site_name: "uniquename"
+site_description: "asdfasdf"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
