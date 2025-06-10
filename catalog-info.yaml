@@ -4,5 +4,5 @@ metadata:
   name: uniquename1
 spec:
   type: service
-  lifecycle: production
+  lifecycle: experimental
   owner: anthonyretliorganization/demo-team
