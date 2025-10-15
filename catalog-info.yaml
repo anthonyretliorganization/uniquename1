@@ -6,5 +6,5 @@ metadata:
     github.com/project-slug: anthonyretliorganization/uniquename1
 spec:
   type: service
-  lifecycle: production
+  lifecycle: experimental
   owner: team-a
