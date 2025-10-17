@@ -4,6 +4,9 @@ metadata:
   name: uniquename1
   annotations:
     github.com/project-slug: anthonyretliorganization/uniquename1
+  labels:
+    team: platform
+    tier: "1"
 spec:
   type: service
   lifecycle: experimental
