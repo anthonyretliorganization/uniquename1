@@ -10,6 +10,6 @@ metadata:
 spec:
   type: service
   lifecycle: experimental
-  owner: guests
+  owner: demo-team
   profile:
     displayName: Unique Name 1
