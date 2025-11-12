@@ -7,10 +7,10 @@ metadata:
   tags:
     - store
     - rest
-    - asdf
+    - java
 spec:
   type: service
   lifecycle: experimental
-  owner: demo-team
+  owner: guests
   profile:
     displayName: Unique Name 1
