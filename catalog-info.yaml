@@ -6,7 +6,7 @@ metadata:
     github.com/project-slug: anthonyretliorganization/uniquename1
   tags:
     - store
-    - rest
+    - java
 spec:
   type: service
   lifecycle: experimental
