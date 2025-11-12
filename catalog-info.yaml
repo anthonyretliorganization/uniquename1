@@ -8,3 +8,5 @@ spec:
   type: service
   lifecycle: experimental
   owner: demo-team
+  profile:
+    displayName: Unique Name 1
