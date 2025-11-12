@@ -8,7 +8,6 @@ metadata:
     - store
     - rest
     - java
-    - asdf
 spec:
   type: service
   lifecycle: experimental
