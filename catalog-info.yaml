@@ -7,7 +7,6 @@ metadata:
   tags:
     - store
     - rest
-    - java
 spec:
   type: service
   lifecycle: experimental
