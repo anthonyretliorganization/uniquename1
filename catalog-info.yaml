@@ -6,10 +6,10 @@ metadata:
     github.com/project-slug: anthonyretliorganization/uniquename1
   tags:
     - store
-    - java
+    - rest
 spec:
   type: service
   lifecycle: experimental
-  owner: demo-team
+  owner: team-a
   profile:
     displayName: Unique Name 1
